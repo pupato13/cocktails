@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#d81b60</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="cocktail_purple_color">#1a154b</color>
+    <color name="cocktail_purple_text">#1a154b</color>
+    <color name="cocktails_background_color">#fafafa</color>
+</resources>
